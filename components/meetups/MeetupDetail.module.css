@@ -1,0 +1,9 @@
+.detail {
+  text-align: center;
+  margin: 0.5rem;
+  overflow: auto;
+}
+.detail img {
+  width: 100%;
+  border-radius: 6px;
+}
